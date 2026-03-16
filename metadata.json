@@ -1,0 +1,7 @@
+{
+  "name": "V-tamin",
+  "description": "AI-powered meal nutrition analysis service for employees.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
